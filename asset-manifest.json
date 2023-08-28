@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/skynet/static/css/main.d9a7be46.css",
+    "main.js": "/skynet/static/js/main.1f283d61.js",
+    "static/media/5.jpg": "/skynet/static/media/5.1b1bd7c1a3323d7e1651.jpg",
+    "static/media/6.jpg": "/skynet/static/media/6.7f04caddc9feb0431de6.jpg",
+    "static/media/4.jpg": "/skynet/static/media/4.ec31f7942f4c63ae0327.jpg",
+    "static/media/3.jpg": "/skynet/static/media/3.e7124ef66fd21d90ce17.jpg",
+    "static/media/1.png": "/skynet/static/media/1.47244a5047cc2105d8f4.png",
+    "static/media/2.webp": "/skynet/static/media/2.7b6096d4b30ae685e7bc.webp",
+    "static/media/c5.jpg": "/skynet/static/media/c5.3a37c6324486a5b7e8d7.jpg",
+    "static/media/c2.png": "/skynet/static/media/c2.2061a7f71687b5b6c0ef.png",
+    "index.html": "/skynet/index.html",
+    "main.d9a7be46.css.map": "/skynet/static/css/main.d9a7be46.css.map",
+    "main.1f283d61.js.map": "/skynet/static/js/main.1f283d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a7be46.css",
+    "static/js/main.1f283d61.js"
+  ]
+}
